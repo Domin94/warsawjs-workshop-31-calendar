@@ -8,15 +8,18 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/Domin94/warsawjs-workshop-31-calendar.git"
+    "url": "git+https://github.com/dominikuzmicz/warsawjs-workshop-31-calendar.git"
   },
   "author": "",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/Domin94/warsawjs-workshop-31-calendar/issues"
+    "url": "https://github.com/dominikuzmicz/warsawjs-workshop-31-calendar/issues"
   },
-  "homepage": "https://github.com/Domin94/warsawjs-workshop-31-calendar#readme",
+  "homepage": "https://github.com/dominikuzmicz/warsawjs-workshop-31-calendar#readme",
   "dependencies": {
-    "express": "^4.16.4"
+    "body-parser": "^1.18.3",
+    "express": "^4.16.4",
+    "mz": "^2.7.0",
+    "uuid": "^3.3.2"
   }
 }
